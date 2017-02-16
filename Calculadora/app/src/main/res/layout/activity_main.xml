@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.joseba.calculadora.MainActivity">
+
+    <TextView
+        android:text="@string/titulo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:id="@+id/textoej"
+        tools:textStyle="italic"
+        android:textSize="30sp" />
+
+    <TextView
+        android:text="@string/cuerpo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textoej"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="9dp"
+        android:id="@+id/texto2"
+        android:textSize="18sp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:layout_below="@+id/texto2"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="41dp"
+        android:id="@+id/posicion"
+        android:allowUndo="false"
+        android:maxLength="3"
+
+
+        />
+
+    <Button
+        android:text="Calcular!"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/posicion"
+        android:layout_alignLeft="@+id/textoPosicion"
+        android:layout_alignStart="@+id/textoPosicion"
+        android:layout_marginTop="19dp"
+        android:id="@+id/BotonCalcular"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:onClick="click"
+        />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/BotonCalcular"
+        android:layout_marginTop="17dp"
+        android:id="@+id/resultado" />
+
+    <TextView
+        android:text="Posicion:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textoPosicion"
+        android:layout_above="@+id/BotonCalcular"
+        android:layout_toRightOf="@+id/resultado"
+        android:layout_toEndOf="@+id/resultado" />
+
+</RelativeLayout>

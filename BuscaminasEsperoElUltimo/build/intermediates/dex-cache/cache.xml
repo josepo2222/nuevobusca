@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joseba\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_5029ec143e0bf07d6d1dca32dc95eeb377bacd43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecffc98b4ce082ce8f819ef856a540794d701e23">
+        <dex dex="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2eeb785eea013af03edecd399b0ad1bc0ab1c0af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_28fc0024c4d63c63cafa4dd9be9fd006c45de478\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_45f4372aca6e1be8449bb11ce15493d584c150d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_6f78f49b29b51cfc31d523c652aefeeb9b4a2dac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_d3541a4cafe04992165aeae2c72daec03658e5bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_3495bf05bd05ca973cac9e8369856abafe9073ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_11d79ee588a9bdadd9754484dd678db4d955634e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_901528036ddf7f906ea7d59ef126356a0feaee6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_25d15612805d283ed12c81799f24cb465ec5781a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d29334fce02bd91f79d0aceee2cc39db169221f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_aeac7bdeadb21dc3af265b416e01e25c8e050576\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="97fe13bfbf99797bf6e884abd0a717bee20e1fc2">
+        <dex dex="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4604f7bea8728ee86abcdba0015f28c6a8767887\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_6b4df29217d6171d2be3a524a8b6455bbee6ffd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_6c6c1d545a2488a30d71ad5faa1dcfa7450ccb1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_69b2a1bdc73ef62833026d5a02a51df97c4ebf6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_83d1030e5aed8b579a8dd991b2e95b08635bca47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_9dfa571962761f9d054526b7fdc79a765a8b6732\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Joseba\Desktop\BuscaminasEsperoElUltimo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_3e0fd2eb2eae2d2bea67d1829694d7a7fa5b1228\classes.dex" />
+    </item>
+
+</items>

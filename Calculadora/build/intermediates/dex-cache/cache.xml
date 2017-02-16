@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joseba\Desktop\Calculadoradenumerosprimos-20170212T184243Z\Calculadora\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Joseba\Desktop\Calculadoradenumerosprimos-20170212T184243Z\Calculadora\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_d51975d71b945d76bb5f2ee3875df111e889d255\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joseba\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Joseba\Desktop\Calculadoradenumerosprimos-20170212T184243Z\Calculadora\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_5029ec143e0bf07d6d1dca32dc95eeb377bacd43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joseba\Desktop\Calculadoradenumerosprimos-20170212T184243Z\Calculadora\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Joseba\Desktop\Calculadoradenumerosprimos-20170212T184243Z\Calculadora\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_6cf23edd005221565bac9c85a3c2faad29e634e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joseba\Desktop\Calculadoradenumerosprimos-20170212T184243Z\Calculadora\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Joseba\Desktop\Calculadoradenumerosprimos-20170212T184243Z\Calculadora\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_da5b2f803ed2fd69265039804a6d1d21807850d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joseba\Desktop\Calculadoradenumerosprimos-20170212T184243Z\Calculadora\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Joseba\Desktop\Calculadoradenumerosprimos-20170212T184243Z\Calculadora\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_6616677a1c4bb7f8afdf3b056274fc6efb0d9a63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joseba\Desktop\Calculadoradenumerosprimos-20170212T184243Z\Calculadora\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Joseba\Desktop\Calculadoradenumerosprimos-20170212T184243Z\Calculadora\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_9318a8673567b53b50da9347ffb3a897f7e1be74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joseba\Desktop\Calculadoradenumerosprimos-20170212T184243Z\Calculadora\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Joseba\Desktop\Calculadoradenumerosprimos-20170212T184243Z\Calculadora\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_3228ed96dd57fefb4a26738e473d01d49164f5af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joseba\Desktop\Calculadoradenumerosprimos-20170212T184243Z\Calculadora\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Joseba\Desktop\Calculadoradenumerosprimos-20170212T184243Z\Calculadora\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_d52f4e9bb68a0632865d6826ed98520e2105e0be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joseba\Desktop\Calculadoradenumerosprimos-20170212T184243Z\Calculadora\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2222d0394e4534fdce105388ead6142a6b5a12fc">
+        <dex dex="C:\Users\Joseba\Desktop\Calculadoradenumerosprimos-20170212T184243Z\Calculadora\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5802fe9e440bac129e6d85af19c3548944533b1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joseba\Desktop\Calculadoradenumerosprimos-20170212T184243Z\Calculadora\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Joseba\Desktop\Calculadoradenumerosprimos-20170212T184243Z\Calculadora\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_5495d6fb11e0c4e2a6367f89d6e4a37b54b6805d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joseba\Desktop\Calculadoradenumerosprimos-20170212T184243Z\Calculadora\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Joseba\Desktop\Calculadoradenumerosprimos-20170212T184243Z\Calculadora\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_52a9e6801552759dbd7e7d36f3f491c46533087a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joseba\Desktop\Calculadoradenumerosprimos-20170212T184243Z\Calculadora\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f55c6f9c728e9d36aab5e362c862362a3ec4068e">
+        <dex dex="C:\Users\Joseba\Desktop\Calculadoradenumerosprimos-20170212T184243Z\Calculadora\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a37c00c43e1b372c6028da5a82a052f2b6871a5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joseba\Desktop\Calculadoradenumerosprimos-20170212T184243Z\Calculadora\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Joseba\Desktop\Calculadoradenumerosprimos-20170212T184243Z\Calculadora\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_dd6b3607ff82be585a94b674de14b470c39ff4d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joseba\Desktop\Calculadoradenumerosprimos-20170212T184243Z\Calculadora\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Joseba\Desktop\Calculadoradenumerosprimos-20170212T184243Z\Calculadora\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1b4d40435c6dd7cb1c05effe7ead01b96564f6cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joseba\Desktop\Calculadoradenumerosprimos-20170212T184243Z\Calculadora\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Joseba\Desktop\Calculadoradenumerosprimos-20170212T184243Z\Calculadora\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_73779d148f703b769f36af9829d07915be4c91ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joseba\Desktop\Calculadoradenumerosprimos-20170212T184243Z\Calculadora\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Joseba\Desktop\Calculadoradenumerosprimos-20170212T184243Z\Calculadora\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_5c9f9d7ed773d4c625c972272e4c48030e8ec35e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Joseba\Desktop\Calculadoradenumerosprimos-20170212T184243Z\Calculadora\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Joseba\Desktop\Calculadoradenumerosprimos-20170212T184243Z\Calculadora\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4eda8b72b79fb117ef854c504b2afceccd7e80a9\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,37 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.joseba.buscaminasesperoelultimo.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="NuevoJuego"
+
+        app:showAsAction="never" />
+    <item android:title="Instrucciones"
+        android:id="@+id/instrucciones" />
+    <item android:title="Seleccionar personaje"
+        android:id="@+id/personajes"/>
+
+    <item android:title="dificultad"
+        android:id="@+id/dificultad"
+        >
+            <menu>
+                <group android:checkableBehavior="single">
+                <item android:title="Principiante"
+                    android:id="@+id/principiante"
+
+                    />
+                <item android:title="Amateur"
+                    android:id="@+id/amateur"
+
+                    />
+                <item android:title="Avanzado"
+                    android:id="@+id/avanzado"
+
+                    />
+                </group>
+            </menu>
+    </item>
+
+</menu>
